@@ -1,0 +1,3 @@
+cryptography>=42
+click>=8.1
+python-dotenv>=1.0
